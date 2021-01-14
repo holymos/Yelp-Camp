@@ -1,0 +1,26 @@
+{
+  "name": "yelp-camp",
+  "version": "1.0.0",
+  "description": "Projeto de conclusão do curso The Web Developer Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/holymos/Yelp-Camp.git"
+  },
+  "author": "Moisés Pacífico",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/holymos/Yelp-Camp/issues"
+  },
+  "homepage": "https://github.com/holymos/Yelp-Camp#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "ejs-mate": "^3.0.0",
+    "express": "^4.17.1",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.11.11"
+  }
+}
