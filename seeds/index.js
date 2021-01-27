@@ -35,8 +35,8 @@ const seedDb = async () => {
             },
             images:  [
                 {
-                    url: "https://res.cloudinary.com/holymoses/image/upload/v1611284378/YelpCamp/hwzotzvjir42zopu4rzt.jpg",
-                    filename: "YelpCamp/hwzotzvjir42zopu4rzt"
+                    url: "https://res.cloudinary.com/holymoses/image/upload/v1611455349/YelpCamp/iknlmfpq22cmzoxr6yiy.jpg",
+                    filename: "YelpCamp/iknlmfpq22cmzoxr6yiy.jpg"
                 }
             ],
             description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum consequatur perspiciatis excepturi, culpa, quas libero minima, itaque incidunt odio cum molestiae architecto! Deserunt nemo, autem consectetur perspiciatis in odio repellendus!',
